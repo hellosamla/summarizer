@@ -1,2 +1,2 @@
 # summarizer
-My first attempts with AI and AI-like programs.
+My initial attempts with extractive text summarization.
